@@ -1,2 +1,2 @@
 # Wallet.py
-module for working with a wallet in python
+Module for working with a wallet in python
