@@ -6,7 +6,8 @@ Documentation (Commands for working with the module):
 Variables = Wallet ("USD") - Assigns to an alternate object. Arguments: (1. Currency. 2. Owner name)
 variables.info () - Display information about an object
 variables.upMoney - Add funds to the object's wallet
-variables.downMoney - Checks money from the object's wallet (If the wallet does not have enough money, the operation is canceled)
+variables.downMoney - Checks money from the object's wallet
+(If the wallet does not have enough money, the operation is canceled)
 ```
 
 You can add my code to develop the project
